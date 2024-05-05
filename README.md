@@ -1,2 +1,2 @@
-# STATIC WEBSITE GENERATOR - THE TERRIBLE, NO GOOD, VERY BAD GENERATOR
+# Static Website Generator - The Terrible, No Good, Very Bad Generator
 
