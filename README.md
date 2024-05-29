@@ -1,5 +1,5 @@
 # Static Website Generator - The Terrible, No Good, Very Bad Generator
-```
+```plaintext
 This was a triumph
 I'm making a note here; "Huge success"
 It's hard to overstate
