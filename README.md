@@ -1,5 +1,5 @@
 # Static Website Generator - The Terrible, No Good, Very Bad Generator
-
+```
 This was a triumph
 I'm making a note here; "Huge success"
 It's hard to overstate
@@ -60,3 +60,4 @@ Still alive
 And when you're dead I will be
 Still alive
 Still alive
+```
