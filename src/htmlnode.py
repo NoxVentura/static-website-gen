@@ -42,6 +42,9 @@ class ParentNode(HtmlNode):
     def to_html(self):
         if self.tag is None:
             raise ValueError("No tag found")
-        if self.children is None:
+        if not self.children:
             raise ValueError("No children found")
-        return f"<{self.tag}{self.props_to_html()}>{''.join(child.to_html() for child in self.children)}</{self.tag}>"
+
+        child_string = "".join(child.to_html() for child in self.children)
+
+        return f"<{self.tag}{self.props_to_html()}>{child_string}</{self.tag}>"
