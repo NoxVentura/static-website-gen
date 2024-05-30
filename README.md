@@ -10,5 +10,19 @@ Some popular production-ready static site generators include:
 - Eleventy
 - Gatsby
 - Jekyll
-
 <br>
+This one is like all of them but worse.
+
+Why?
+
+We choose to go to the moon not because it is easy but because it is hard.
+
+ Also because I made it. Here's that.
+ 
+To run the code, clone this repository and run this command in the terminal
+```commandline
+sh main.sh
+```
+Click on the link generated to see the result.
+
+Edit files in the content directory and add any assets to the file by using the static directory
